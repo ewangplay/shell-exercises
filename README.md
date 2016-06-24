@@ -1,6 +1,6 @@
-# 学习golang过程的练习题
+# shell exercises
 
-|题目|说明|
+|topic|description|
 |----|----|
-|||
+|[for_i](./for_i.sh)|for traversing a list|
 
